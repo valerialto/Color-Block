@@ -1,0 +1,21 @@
+#header{
+    font-family: serif;
+    border: 4px solid;
+    text-align: center;
+    color: #000000;
+    border-style: dotted;
+    border-left: white;
+    border-right: white;
+}
+
+#names{
+    /*font-family: serif;*/
+    text-align: center;
+    color: #000000;
+}
+button{
+    width: 100%;
+    background: white;
+    border-radius: 5%;
+    border-style: dotted;
+}
